@@ -1,0 +1,96 @@
+# Copyright (C) 2017 DX Contact Form Success Page for Jetpack
+# This file is distributed under the same license as the DX Contact Form Success Page for Jetpack package.
+msgid ""
+msgstr ""
+"Project-Id-Version: DX Contact Form Success Page for Jetpack 0.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jetpack-contact-"
+"form-success-message\n"
+"POT-Creation-Date: 2017-03-17 11:15:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-jpcfsm-admin.php:55
+msgid "%s Settings"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:98
+msgid "Changes saved successfully!"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:125
+msgid "Format Message"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:128
+msgid "Format your message below"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:136
+msgid "Other Settings"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:141
+msgid ""
+"Hide all post content and display only this message when the form is finally sent."
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:148 includes/class-jpcfsm-admin.php:152
+msgid "Save Changes"
+msgstr ""
+
+
+#: includes/class-jpcfsm-admin.php:181
+msgid "Are you looking for help?"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:182
+msgid "Don't worry, we got you covered:"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:183
+msgid "Go to plugin support forums on WordPress"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:184
+msgid "Browse our blog for tutorials"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:188
+msgid "Rate &amp; review this plugin? &#9733;&#9733;&#9733;&#9733;&#9733;"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:189
+msgid "Follow @wpdevrix on Twitter"
+msgstr ""
+
+#: includes/class-jpcfsm-admin.php:208
+msgid "Settings"
+msgstr ""
+
+#. #-#-#-#-#  jpcfsm.pot (DX Contact Form Success Page for Jetpack 0.4.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-jpcfsm.php:70
+msgid "DX Contact Form Success Page for Jetpack"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/jetpack-contact-form-success-message/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"DX Contact Form Success Page for Jetpack replaces the custom message showing "
+"after successfully submitting a contact form, with your custom message."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DevriX"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://devrix.com"
+msgstr ""

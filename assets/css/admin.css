@@ -1,0 +1,14 @@
+@media screen and (min-width: 700px) {
+    .jpcfsm-cont {
+        display: flex;
+        justify-content: space-between;
+        max-width: 100%;
+    }
+    .jpcfsm-left {
+        margin-right: 2em;
+        overflow: hidden;
+    }
+    .jpcfsm-right {
+        max-width: 30%;
+    }
+}
